@@ -1,3 +1,3 @@
 # ASIGNATURA PDIH
 
-- Repositorio de prácticas y seminarios de Inés Prados
+- Repositorio de prácticas y seminarios de Inés Prados y Darío Ortega
