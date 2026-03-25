@@ -57,3 +57,8 @@ Representación artística de un felino utilizando caracteres específicos y pos
 
 ## 4. Conclusión
 La práctica ha permitido comprender cómo los lenguajes de alto nivel como C se comunican con el hardware subyacente mediante el uso de registros y uniones (`union REGS`), facilitando el control total sobre la interfaz de usuario en sistemas heredados.
+
+## 5. Instrucciones de ejecución
+1. Abrir Borland C++ en DOSBox.
+2. Cargar el proyecto `P1.PRJ`.
+3. Compilar y ejecutar con `Alt + R`.
